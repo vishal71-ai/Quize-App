@@ -1,2 +1,2 @@
 # Quize-App
-this is absic quize app usinf HTML, CSS and JAVASript
+this is basic quize app using HTML, CSS and JAVASript
